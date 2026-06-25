@@ -7,7 +7,7 @@
 
 <!-- After connecting the repository to Zenodo (see "How to cite"),
      paste the DOI badge provided by Zenodo on the line below: -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.XXXXXXX.svg)](https://doi.org/XX.XXXX/zenodo.XXXXXXX) -->
+<!-- [![DOI](https://zenodo.org/badge/1279700188.svg)](https://doi.org/10.5281/zenodo.20837764) -->
 
 ---
 
@@ -133,7 +133,7 @@ If you use this tool in your research, please cite it as follows.
 
 > [Jerymy Antonio Carrillo], [J.A., Carrillo]. (2026). *BibCod-NBS: Bibliographic Coding
 > Tool for Nature-Based Solutions Systematic Reviews* (Version 1.0)
-> [Computer software]. https://doi.org/[DOI]
+> [Computer software]. https://doi.org/10.5281/zenodo.20837764
 
 **Authors / Contributors:**
 - Jerymy Antonio Carrillo Bravo — ORCID: 0000-0002-3059-0609
